@@ -7,3 +7,5 @@ after feature-3 commit-2
 
 after feature-4 commit-1
 after feature-4 commit-2
+
+after feature-4 revert commit-1
