@@ -14,3 +14,5 @@ after feature-4 revert commit-1
 
 after feature-5 commit-1
 after feature-5 commit-2
+
+after feature-5 revert commit-1
